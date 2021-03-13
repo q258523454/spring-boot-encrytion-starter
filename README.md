@@ -17,7 +17,7 @@
 - 在`pom.xml`中引入依赖：
 ```xml
    <dependency>
-        <groupId>LJ08</groupId>
+        <groupId>zhang</groupId>
         <artifactId>encrypt</artifactId>
         <version>1.0.0-RELEASE</version>
     </dependency>

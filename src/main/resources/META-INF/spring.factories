@@ -1,0 +1,3 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+com.zhang.encryptbody.config.EncryptBodyConfig
+
